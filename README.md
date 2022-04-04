@@ -1,37 +1,18 @@
 # Torrent-Search-Bot
 
-A Simple Telegram Inline Torrent Search Bot by [@AbirHasan2005](https://github.com/AbirHasan2005).
-
-## Torrent API
-- Using [api.abirhasan.wtf](https://api.abirhasan.wtf/) API
+A Simple Telegram Inline Torrent Search Bot by [@movieskacona](https://github.com/Darkfur2340).
 
 ## Host Bot
 ### Deploy to Heroku
 Click Below Button to Deploy to Heroku:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AbirHasan2005/Torrent-Search-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Darkfur2340/Darks_Torrent_1337x_PirateBay_Anime_seach_Bot)
 
 ### Deploy Locally
 ```shell
-git clone https://github.com/AbirHasan2005/Torrent-Search-Bot
+git clone https://github.com/Darkfur2340/Darks_Torrent_1337x_PirateBay_Anime_seach_Bot
 cd Torrent-Search-Bot
 pip3 install -r requirements.txt
 python3 main.py
 ```
-
-### Support Group:
-<a href="https://t.me/JoinOT"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
-
-### Follow on:
-<p align="left">
-<a href="https://github.com/AbirHasan2005"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
-</p>
-<p align="left">
-<a href="https://twitter.com/AbirHasan2005"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a>
-</p>
-<p align="left">
-<a href="https://facebook.com/AbirHasan2005"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
-</p>
-<p align="left">
-<a href="https://instagram.com/AbirHasan2005"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
-</p>
+# Enjoy Our Repo Also Do Star it Please I M Working Hard For u Guys
