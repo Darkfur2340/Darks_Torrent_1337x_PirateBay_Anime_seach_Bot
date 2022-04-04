@@ -1,0 +1,43 @@
+{
+    "name": "A Magnet/Torrent Search bot by @movieskacona",
+    "description": "A Very Easy To Deploy Torrent Seach Bot by @movieskacona",
+    "keywords": [
+        "telegram",
+        "inline",
+        "torrent",
+        "search",
+        "bot"
+    ],
+    "repository": "https://github.com/Darkfur2340/Darks_Torrent_1337x_PirateBay_Anime_seach_Bot",
+    "env": {
+        "API_ID": {
+            "description": "Get this value from my.telegram.org"
+        },
+        "API_HASH": {
+            "description": "Get this value from my.telegram.org"
+        },
+        "SESSION_NAME": {
+            "description": "Any Bot Session Name. You can keep default!",
+            "value": "Torrent-Search-Bot"
+        },
+        "BOT_TOKEN": {
+            "description": "Your Telegram Bot Token by @BotFather"
+        },
+        "MAX_INLINE_RESULTS": {
+            "description": "Max Telegram Inline Search Result. Keep Default!",
+            "value": "50",
+            "required": false
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
